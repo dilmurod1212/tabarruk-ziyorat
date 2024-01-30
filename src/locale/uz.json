@@ -1,0 +1,25 @@
+{
+  "countries": "davlatlar",
+  "religions": "dinlar",
+  "haritage": "meros haritasi",
+  "help": "yordam",
+  "about": "biz haqimizda",
+  "destinations_count": "{count} manzillar",
+  "title_countries": "Qancha davlat?",
+  "title_religions": "Dinlar",
+  "title_instagram": "instagram",
+  "title_partners": "Hamkorlar",
+  "title_countries_descr": "Biz vakillik qiladigan barcha davlatlar",
+  "title_religions_descr": "Biz vakillik qiladigan barcha davlatlar",
+  "title_instagram_descr": "Turk dunyosidagi so‘nggi yangiliklar va o‘zgarishlardan xabardor bo‘ling.",
+  "title_partners_descr": "Ushbu veb-sayt turkiy mamlakatlarda joylashgan tarixiy, noyob joylar haqida ma'lumot almashish uchun yaratilgan.",
+  "footer_descr": "Ushbu veb-sayt turkiy davlatlarda joylashgan tarixiy, noyob joylar haqida ma'lumot almashish uchun yaratilgan.",
+  "footer_link_main": "Asosoy sahifa",
+  "footer_link_contact": "Aloqa",
+  "footer_link_media": "Media resurslari",
+  "footer_link_privacy": "maxfiylik",
+  "footer_link_faq": "F.A.Q",
+  "attractions": "Diqqatga sazovor joylar",
+  "destinations": " manzillar"
+
+}

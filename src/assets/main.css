@@ -1,0 +1,16 @@
+@import './font/font.css';
+@import './tailwind.css';
+@import './icomoon/style.css';
+.transition-200 {
+  transition: 0.2s ease-in-out;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: 'Montserrat';
+  @media (min-width: 1024px) {
+    /* overflow: auto !important; */
+  }
+}
